@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^((.*)\.)?(graphql\.pl)$ [NC]
+RewriteRule ^ http://graphql.org [R=302,L,NE]
