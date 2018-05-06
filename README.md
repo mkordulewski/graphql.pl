@@ -2,5 +2,5 @@
 
 * Polish GraphQL website:
   * http://graphql.pl/
-* Redirects to GraphQL website:
+* Based on main GraphQL website:
   * http://graphql.org/
