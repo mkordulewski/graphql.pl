@@ -1,6 +1,6 @@
 # GraphQL.pl
 
 * Polish GraphQL website:
-  * http://graphql.pl/
+  * https://graphql.pl/
 * Based on main GraphQL website:
-  * http://graphql.org/
+  * https://graphql.org/
